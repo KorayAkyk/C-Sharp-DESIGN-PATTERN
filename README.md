@@ -54,11 +54,12 @@ Ce modèle est utilisé pour séparer la mise en œuvre d'un cas particulier de 
 Le client (utilisateur physique ou logiciel) doit créer des objets complexes sans en connaître l'implémentation. 
 Créez des objets complexes avec plusieurs implémentations.
 
-<img src="img/code_rendu.png" width="200px">
+<img src="img/code_rendu.png">
 
 
 
 ## Factory Method ##
 
-<img src="img/pattern_builder2.png" width="200px">
-<img src="img/pattern_builder3.png" width="200px">
+<img src="img/pattern_builder2.png">
+<img src="img/pattern_builder3.png">
+  
