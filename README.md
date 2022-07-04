@@ -38,6 +38,8 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 - Création d'une classe abstraite Automobile
 - Toutes les méthodes seront en Protected
 
+## Pattern Builder ##
+
 
 <img src="img/pattern_builder.png" width="200px">
 
@@ -48,3 +50,7 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 - Insatnce de classe
 - 2 types de documents différents
 - Création d'objets complexes sans avoir à s'occuper des problèmes d'implémentations
+
+<img src="img/code_rendu.png">
+![Pattern Builder liasse billet](/assets/img/liasse_billet.png "Pattern Builder liasse billet")
+
