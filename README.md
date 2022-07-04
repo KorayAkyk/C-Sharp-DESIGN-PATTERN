@@ -1,5 +1,5 @@
 
-# DESIGN PATTERN C #
+# DESIGN PATTERN C# #
 
 ## Comment on est noté ? ##
 
@@ -37,3 +37,10 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 - La classes FabriqueVéhiculeElectrique et FabriqueVéhiculeEssence implémente une méthode qui permet de créer un scooter en fonction de son type ScooterElectrique ou ScooterEssence.
 - Création d'une classe abstraite Automobile
 - Toutes les méthodes seront en Protected
+
+<img src="img/patern_builder.png" alt="Abstract factory" width="400"/>
+
+- Créer un constructeur de liasse de documents sans connaitre
+- Structure de données
+- Insatnce de classe
+- 2 types de documents différents
