@@ -23,7 +23,7 @@
 <img src="img/abstract_factory.png" alt="Abstract factory" width="400"/>
 
 - Permet de déresponsabiliser le classe mère. Elle permet de pouvoir modifier un comportement sans modifier la classe mère.
-- Design pattern ``Abstract Factory``
+- Design pattern Abstract Factory
 
 La classe Scooter est une classe mère d'héritage.
 Les classes filles ScooterElectricité et ScooterEssence ont un "extends" pour que Scooter puisse étendre cette classe.
