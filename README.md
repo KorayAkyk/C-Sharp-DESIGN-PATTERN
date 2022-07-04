@@ -1,5 +1,5 @@
 
-# =======DESIGN PATTERN C#===============
+# DESIGN PATTERN C#
 
 ## Comment on est noté ? 
   -   Projet application C# console avec des design patterns
