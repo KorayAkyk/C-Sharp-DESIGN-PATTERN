@@ -31,16 +31,17 @@ Les classes filles ScooterElectricité et ScooterEssence ont un "extends" pour q
 A quoi sert un pattern ?
 Un pattern à pour but de régler tous les problèmes avec les créations de classes et permet de régler le surcharge en lien avec la classe parente
 
-<img src="img/catalogue.png" alt="Abstract factory" width="400"/>
+<img src="img/catalogue.png" alt="catalogue" width="400"/>
 
 - Création d'une fabrique de vehicule en créant une interface qui contient les signatures des fonctions
 - La classes FabriqueVéhiculeElectrique et FabriqueVéhiculeEssence implémente une méthode qui permet de créer un scooter en fonction de son type ScooterElectrique ou ScooterEssence.
 - Création d'une classe abstraite Automobile
 - Toutes les méthodes seront en Protected
 
-<img src="img/patern_builder.png" alt="Abstract factory" width="400"/>
+<img src="img/patern_builder.png" alt="pattern builder" width="400"/>
 
 - Créer un constructeur de liasse de documents sans connaitre
 - Structure de données
 - Insatnce de classe
 - 2 types de documents différents
+- Création d'objets complexes sans avoir à s'occuper des problèmes d'implémentations
