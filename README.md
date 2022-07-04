@@ -42,7 +42,7 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 
 <img src="img/pattern_builder.png" width="200px">
 
-<img src="img/pattern_builder1.png" width="200px">
+<img src="img/pattern_builder1.png">
 
 - Créer un constructeur de liasse de documents sans connaitre le type pdf ou html attendu
 - Structure de données
@@ -60,6 +60,8 @@ Créez des objets complexes avec plusieurs implémentations.
 
 ## Factory Method ##
 
+### Générique ###
 <img src="img/pattern_builder2.png">
+
+### Final ###
 <img src="img/pattern_builder3.png">
-  
