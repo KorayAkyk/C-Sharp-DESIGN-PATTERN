@@ -41,7 +41,7 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 
 <img src="img/pattern_builder.png" width="200px">
 
-<img src="images/pattern_builder1.png">
+<img src="img/pattern_builder1.png">
 
 - Créer un constructeur de liasse de documents sans connaitre le type pdf ou html attendu
 - Structure de données
