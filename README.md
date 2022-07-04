@@ -38,7 +38,7 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 - Création d'une classe abstraite Automobile
 - Toutes les méthodes seront en Protected
 
-<img src="img/patern_builder.png" alt="pattern builder" width="400"/>
+<img src="img/patern_builder.png" alt="pattern_builder" width="400"/>
 
 - Créer un constructeur de liasse de documents sans connaitre
 - Structure de données
