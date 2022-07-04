@@ -42,7 +42,7 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 
 <img src="img/pattern_builder.png" width="200px">
 
-<img src="img/pattern_builder1.png">
+<img src="img/pattern_builder1.png" width="200px">
 
 - Créer un constructeur de liasse de documents sans connaitre le type pdf ou html attendu
 - Structure de données
@@ -50,7 +50,15 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 - 2 types de documents différents
 - Création d'objets complexes sans avoir à s'occuper des problèmes d'implémentations
 
-<img src="img/code_rendu.png">
+Ce modèle est utilisé pour séparer la mise en œuvre d'un cas particulier de la logique / du client. 
+Le client (utilisateur physique ou logiciel) doit créer des objets complexes sans en connaître l'implémentation. 
+Créez des objets complexes avec plusieurs implémentations.
 
-<img src="img/pattern_builder2.png">
-<img src="img/pattern_builder3.png">
+<img src="img/code_rendu.png" width="200px">
+
+
+
+## Factory Method ##
+
+<img src="img/pattern_builder2.png" width="200px">
+<img src="img/pattern_builder3.png" width="200px">
