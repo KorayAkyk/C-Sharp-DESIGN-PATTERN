@@ -1,5 +1,5 @@
 
-=======DESIGN PATTERN C#===============
+# =======DESIGN PATTERN C#===============
 
 ## Comment on est noté ? 
   -   Projet application C# console avec des design patterns
@@ -27,7 +27,7 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 <img src="img/catalogue.png" alt="Abstract factory" width="400"/>
 
 
-    -   Création d'une fabrique de vehicule en créant une interface qui contient les signatures des fonctions
-    -   La classes FabriqueVéhiculeElectrique et FabriqueVéhiculeEssence implémente une méthode qui permet de créer un scooter en fonction de son type ScooterElectrique ou ScooterEssence.
-    -   Création d'une classe abstraite Automobile
-    -   Toutes les méthodes seront en Protected
+-   Création d'une fabrique de vehicule en créant une interface qui contient les signatures des fonctions
+-   La classes FabriqueVéhiculeElectrique et FabriqueVéhiculeEssence implémente une méthode qui permet de créer un scooter en fonction de son type ScooterElectrique ou ScooterEssence.
+-   Création d'une classe abstraite Automobile
+-   Toutes les méthodes seront en Protected
