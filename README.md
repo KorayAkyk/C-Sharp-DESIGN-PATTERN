@@ -51,4 +51,6 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 - Création d'objets complexes sans avoir à s'occuper des problèmes d'implémentations
 
 <img src="img/code_rendu.png">
-![Pattern Builder liasse billet](/img/liasse_billet.png "Pattern Builder liasse billet")
+
+<img src="img/pattern_builder2.png">
+<img src="img/pattern_builder3.png">
