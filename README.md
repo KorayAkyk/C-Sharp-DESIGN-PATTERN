@@ -3,9 +3,14 @@
 
 ## Comment on est noté ? ##
 
-- Projet application C# console avec des design patterns
+- Projet application C# console avec des design patterns : 1 mini projet par console
 - QCM
 - Rendre prise de note, repo Git bien documenter avec les prises de note de la semaine et les exercices
+
+Liste des designs patterns : builder, factory method, protoype, singleton, adapter, bridge, composite, facade, flyweight, proxy , chain of responsabilty, command , interpreter, iterator, mediator, memento, observer, state, strategy, template method, visitor
+
+Pour vendredi, TP noté à rendre : 
+Créer une (ou plusieurs) application en C# , illustrant les patterns vus en cours cette semaine. Vous pouvez travailler en groupe de 4 maximum (je conseille fortement de travailler seul, la notation sera plus sèvere pour un groupe) . J'attends au minimum une application console.
 
 ## Définition ##
 
@@ -185,7 +190,7 @@ Souces :
 Le but de ce pattern est de convertir l'interface d'une classe donnée en une interface attendue par des clients afin qu'ils puissent travailler ensemble.
 En résumé, il permet de donner à une classe existante une nouvelle interface pour répondre aux besoins d'un client.
 
-<img src="img/pattern_adapter.png" width="400">
+<img src="img/pattern_adapter.png" width="600">
 
 #### Explication du design pattern + code ####
 
