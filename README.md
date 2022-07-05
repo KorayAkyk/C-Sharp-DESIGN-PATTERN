@@ -184,3 +184,14 @@ Souces :
 
 Le but de ce pattern est de convertir l'interface d'une classe donnée en une interface attendue par des clients afin qu'ils puissent travailler ensemble.
 En résumé, il permet de donner à une classe existante une nouvelle interface pour répondre aux besoins d'un client.
+
+<img src="img/pattern_adapter.png" width="400">
+
+#### Explication du design pattern + code ####
+
+Le composant pdf est l'adapteur
+
+```csharp
+//composition
+protected ComposantPdf outilPdf = new ComposantPdf();
+```
