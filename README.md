@@ -50,8 +50,8 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 - 2 types de documents différents
 - Création d'objets complexes sans avoir à s'occuper des problèmes d'implémentations
 
-Ce modèle est utilisé pour séparer la mise en œuvre d'un cas particulier de la logique / du client. 
-Le client (utilisateur physique ou logiciel) doit créer des objets complexes sans en connaître l'implémentation. 
+Ce modèle est utilisé pour séparer la mise en œuvre d'un cas particulier de la logique / du client.
+Le client (utilisateur physique ou logiciel) doit créer des objets complexes sans en connaître l'implémentation.
 Créez des objets complexes avec plusieurs implémentations.
 
 <img src="img/code_rendu.png" width="400">
@@ -176,6 +176,11 @@ class Car:
      self.engine = Engine()
 ```
 
-Souces : 
-  https://leandeep.com/h%C3%A9ritage-vs-composition-en-programmation-orient%C3%A9e-objet/
-  https://fr.sawakinome.com/articles/programming/difference-between-inheritance-and-composition.html
+Souces :
+  <https://leandeep.com/h%C3%A9ritage-vs-composition-en-programmation-orient%C3%A9e-objet/>
+  <https://fr.sawakinome.com/articles/programming/difference-between-inheritance-and-composition.html>
+
+## Pattern Adapter ##
+
+Le but de ce pattern est de convertir l'interface d'une classe donnée en une interface attendue par des clients afin qu'ils puissent travailler ensemble.
+En résumé, il permet de donner à une classe existante une nouvelle interface pour répondre aux besoins d'un client.
