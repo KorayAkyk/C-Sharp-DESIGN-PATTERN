@@ -135,3 +135,47 @@ public class Vendeur
     }
 }
 ```
+
+Les patterns de structure ou de structuration
+
+Intro
+
+Les patterns de structurations permettent de faciliter l'indépandance de l'interface d'un objet et de son implémentation.
+
+En fournissant les interfaces ce pattern permet d'encapsuler la composition des objets
+Cela augmente le niveau d'abstraction d'un système donnée un peu à la manière des patterns de création qui encapsulent la création d'objets
+Ces patterns mettent en avant les interfaces
+
+### Les différences héritage et compositions ###
+
+--> L'héritage et la composition sont 2 concepts de la POO <--
+
+L'héritage est la capacité d'une classe à hériter des propriétés et du comportement d'une classe parent en l'étendant, tandis que Composition est la capacité d'une classe à contenir des objets de différentes classes en tant que données membres.
+ En termes simples, Composition et Héritage consistent à fournir des propriétés ou un comportement supplémentaires à une classe.
+
+<img src="img/Différence entre Héritage et Composition en Java.png" width="400">
+
+#### Héritage ####
+
+```csharp
+class Vehicule:
+ pass
+
+class Bicycle(Vehicule)
+ pass
+```
+
+#### Composition ####
+
+```csharp
+class Engine:
+ pass
+
+class Car:
+ def __init__(self):
+     self.engine = Engine()
+```
+
+Souces : 
+  https://leandeep.com/h%C3%A9ritage-vs-composition-en-programmation-orient%C3%A9e-objet/
+  https://fr.sawakinome.com/articles/programming/difference-between-inheritance-and-composition.html
