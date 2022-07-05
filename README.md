@@ -42,7 +42,7 @@ Un pattern à pour but de régler tous les problèmes avec les créations de cla
 
 <img src="img/pattern_builder.png" width="200px">
 
-<img src="img/pattern_builder1.png">
+<img src="img/pattern_builder1.png" width="400">
 
 - Créer un constructeur de liasse de documents sans connaitre le type pdf ou html attendu
 - Structure de données
@@ -54,14 +54,84 @@ Ce modèle est utilisé pour séparer la mise en œuvre d'un cas particulier de 
 Le client (utilisateur physique ou logiciel) doit créer des objets complexes sans en connaître l'implémentation. 
 Créez des objets complexes avec plusieurs implémentations.
 
-<img src="img/code_rendu.png">
-
-
+<img src="img/code_rendu.png" width="400">
 
 ## Factory Method ##
 
 ### Générique ###
-<img src="img/pattern_builder2.png">
+
+<img src="img/pattern_builder2.png" width="400">
 
 ### Final ###
-<img src="img/pattern_builder3.png">
+
+<img src="img/pattern_builder3.png" width="400">
+
+## Pattern Singleton ##
+
+Le pattern singleton est utilisé pour créer une instance unique d'une classe
+Le pattern est succeptible d'utiliser ce type d'instance unique
+
+Notre application va utiliser la classe liasse viarge (LiasseVierge) qui ne posséderra qu'une seule instance
+Chaque classe qui utilise la liasse vierge doit avoir accès
+à la même instance. On doit surtout s'arranger pour qu'on ne puisse pas en créer de nouvelles
+(avec l'opérateur new).
+
+Le pattern prototype permet la création d'objets à partir d'autre objets appelés "prototypes" disposant d'une méthode Clone() qui retourne un objet identique
+
+## Code du Pattern Singleton ##
+
+code + schéma du pattern prototype
+lien utile : <https://docs.microsoft.com/fr-fr/dotnet/api/system.object.memberwiseclone?view=net-6.0>
+
+### Main ###
+
+```csharp
+
+        static void Main(string[] args)
+        {
+            Vendeur vendeurA = Vendeur.getInstance();
+            vendeurA.nom = "BOB";
+            vendeurA.prenom = "pop";
+            
+            Vendeur vendeurB = Vendeur.getInstance();
+            vendeurB.nom = "Thriller";
+            vendeurB.prenom = "Koko";
+
+
+            Console.WriteLine("Vendeur A : ");
+            Console.WriteLine("Nom : " + vendeurA.nom);
+            Console.WriteLine("Prenom : " + vendeurA.prenom);
+
+            Console.WriteLine("Vendeur B : ");
+            Console.WriteLine("Nom : " + vendeurB.nom);
+            Console.WriteLine("Prenom : " + vendeurB.prenom);     
+        }
+
+```
+
+### Vendeur ###
+
+```csharp
+
+public class Vendeur
+{
+    private static Vendeur _instance = null;
+
+    public String nom { get; set; }
+    public String prenom { get; set; }
+
+    private Vendeur()
+    {
+    }
+
+    public static Vendeur getInstance()
+    {
+        if (_instance == null)
+        {
+            _instance = new Vendeur();
+        }
+        return _instance;
+        
+    }
+}
+```
