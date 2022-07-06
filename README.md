@@ -26,8 +26,6 @@ Créer une (ou plusieurs) application en C# , illustrant les patterns vus en cou
 
 ## Abstract factory ##
 
-![alt text](.images/abstract_factory.png)
-
 <img src="img/abstract_factory.png" alt="Abstract factory" width="400"/>
 
 - Permet de déresponsabiliser le classe mère. Elle permet de pouvoir modifier un comportement sans modifier la classe mère.
@@ -193,7 +191,7 @@ Souces :
 Le but de ce pattern est de convertir l'interface d'une classe donnée en une interface attendue par des clients afin qu'ils puissent travailler ensemble.
 En résumé, il permet de donner à une classe existante une nouvelle interface pour répondre aux besoins d'un client.
 
-<img src="img/pattern_adapter.png" width="600">
+<img src="img/pattern_adapter.png" width="500">
 
 #### Explication du design pattern  code ####
 
@@ -217,11 +215,11 @@ Le fomulaire de demande d'immatriculation possède deux implémentation différe
 
 Au départ le système a été conçu pour la France uniquement. Ensuite on a du créé une sous-classe FormulaireImmatCH, elle aussi abstraite pour avoir également deux sous classe concrète (qui sont FormulaireImmatHTML et FormulaireImmatAPP dédiées à la Suissse)
 
-<img src="img/design_pattern_bridge.png" width="600">
+<img src="img/design_pattern_bridge.png" width="500">
 
-<img src="img/design_pattern_bridge1.png" width="600">
+<img src="img/design_pattern_bridge1.png" width="500">
 
-<img src="img/design_pattern_bridge2.png" width="600">
+<img src="img/design_pattern_bridge2.png" width="500">
 
 ## Pattern Composite ##
 
@@ -230,7 +228,7 @@ On peut utiliser un arbre en tant qu'analogie.
 
 Les "clients" interagissent avec les objets sans connaitre la structure de l'arbre
 
-<img src="img/design_pattern_composite.png" width="600">
+<img src="img/design_pattern_composite.png" width="500">
 
 ![alt text](./img/design-pattern-composite génrique.png)
 
@@ -239,7 +237,7 @@ Les "clients" interagissent avec les objets sans connaitre la structure de l'arb
 Ce pattern permet d'ajouter DYNAMIQUEMENT des fonctionnalités SUPPLEMENTAIRES à un objet sans modifier l'interface de l'objet (Les clients de l'objet ne sont pas au courant de la modification)
 Il s'agit d'une alternanive à la création d'une sous-classe permettrait d'enrichir l'objet.
 
-# Pattern Comportement #
+# Comportement #
 
 Les patterns de comportement distribuent les algorithmes/traitements entre les objets.
 Ils organisent les interactions en renseignant le "flux de controle" et de traitement au sein d'un système d'objet.
@@ -254,3 +252,11 @@ Le but est de construire une chaine d'objets de manière à ce que si un objet d
 ## Pattern Command ##
 
 Ce pattern transforme une requête en objet ce i facilite les opérations relatives à la requête ex: Annulation, queue, suivi, etc.
+
+## Pattern Iterator ##
+
+Le but du patron de conception itérateur est d’extraire le comportement qui permet de parcourir une collection et de le mettre dans un objet que l’on nomme itérateur.
+
+## Pattern Mediator ##
+
+Médiateur est un patron de conception comportemental qui diminue les dépendances chaotiques entre les objets. Il restreint les communications directes entre les objets et les force à collaborer uniquement via un objet médiateur.
