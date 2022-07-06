@@ -224,7 +224,26 @@ Au départ le système a été conçu pour la France uniquement. Ensuite on a du
 
 ## Pattern Composite ##
 
-<img src="design_pattern_composite.png" width="600">
+Ce pattern offre un cadre de conception d'une composition d'objet dont on ne connait pas la profondeur. 
+On peut utiliser un arbre en tant qu'analogie.
 
-<img src="design-pattern-composite génrique.png" width="600">
+Les "clients" interagissent avec les objets sans connaitre la structure de l'arbre
 
+![alt text](./img/design_pattern_composite.png)
+![alt text](./img/design-pattern-composite génrique.png)
+
+## Pattern Decorator ##
+
+Ce pattern permet d'ajouter DYNAMIQUEMENT des fonctionnalités SUPPLEMENTAIRES à un objet sans modifier l'interface de l'objet (Les clients de l'objet ne sont pas au courant de la modification)
+Il s'agit d'une alternanive à la création d'une sous-classe permettrait d'enrichir l'objet.
+
+## Pattern Comportement ##
+
+Les patterns de comportement distribuent les algorithmes/traitements entre les objets.
+Ils organisent les interactions en renseignant le "flux de controle" et de traitement au sein d'un système d'objet.
+
+La distribution se fait soit par Héritage soit par "délégation".
+Le pattern de délégation permet de déléguer le traitement à un objet.
+
+Le pattern Chain of Responsability
+Le but est de construire une chaine d'objets de manière à ce que si un objet de la chaine ne peut répondre à une requête, il puisse la passer à un successeur et ainsi de suite jusqu'à ce que l'un des objets puissent y répondre.
