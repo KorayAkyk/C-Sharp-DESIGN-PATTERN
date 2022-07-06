@@ -217,5 +217,14 @@ Au départ le système a été conçu pour la France uniquement. Ensuite on a du
 
 
 <img src="img/design_pattern_bridge.png" width="600">
+
 <img src="img/design_pattern_bridge1.png" width="600">
+
 <img src="img/design_pattern_bridge2.png" width="600">
+
+## Pattern Composite ##
+
+<img src="design_pattern_composite.png" width="600">
+
+<img src="design-pattern-composite génrique.png" width="600">
+
