@@ -215,7 +215,6 @@ Le fomulaire de demande d'immatriculation possède deux implémentation différe
 
 Au départ le système a été conçu pour la France uniquement. Ensuite on a du créé une sous-classe FormulaireImmatCH, elle aussi abstraite pour avoir également deux sous classe concrète (qui sont FormulaireImmatHTML et FormulaireImmatAPP dédiées à la Suissse)
 
-
 <img src="img/design_pattern_bridge.png" width="600">
 
 <img src="img/design_pattern_bridge1.png" width="600">
@@ -224,12 +223,13 @@ Au départ le système a été conçu pour la France uniquement. Ensuite on a du
 
 ## Pattern Composite ##
 
-Ce pattern offre un cadre de conception d'une composition d'objet dont on ne connait pas la profondeur. 
+Ce pattern offre un cadre de conception d'une composition d'objet dont on ne connait pas la profondeur.
 On peut utiliser un arbre en tant qu'analogie.
 
 Les "clients" interagissent avec les objets sans connaitre la structure de l'arbre
 
-![alt text](./img/design_pattern_composite.png)
+<img src="img/design_pattern_composite.png" width="600">
+
 ![alt text](./img/design-pattern-composite génrique.png)
 
 ## Pattern Decorator ##
@@ -237,7 +237,7 @@ Les "clients" interagissent avec les objets sans connaitre la structure de l'arb
 Ce pattern permet d'ajouter DYNAMIQUEMENT des fonctionnalités SUPPLEMENTAIRES à un objet sans modifier l'interface de l'objet (Les clients de l'objet ne sont pas au courant de la modification)
 Il s'agit d'une alternanive à la création d'une sous-classe permettrait d'enrichir l'objet.
 
-## Pattern Comportement ##
+# Pattern Comportement #
 
 Les patterns de comportement distribuent les algorithmes/traitements entre les objets.
 Ils organisent les interactions en renseignant le "flux de controle" et de traitement au sein d'un système d'objet.
@@ -245,5 +245,10 @@ Ils organisent les interactions en renseignant le "flux de controle" et de trait
 La distribution se fait soit par Héritage soit par "délégation".
 Le pattern de délégation permet de déléguer le traitement à un objet.
 
-Le pattern Chain of Responsability
+## Pattern Chain of Responsability ##
+
 Le but est de construire une chaine d'objets de manière à ce que si un objet de la chaine ne peut répondre à une requête, il puisse la passer à un successeur et ainsi de suite jusqu'à ce que l'un des objets puissent y répondre.
+
+## Pattern Command ##
+
+Ce pattern transforme une requête en objet ce i facilite les opérations relatives à la requête ex: Annulation, queue, suivi, etc.
