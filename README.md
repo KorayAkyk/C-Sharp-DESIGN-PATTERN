@@ -1,4 +1,3 @@
-
 # DESIGN PATTERN C# #
 
 ## Comment on est noté ? ##
@@ -9,8 +8,10 @@
 
 Liste des designs patterns : builder, factory method, protoype, singleton, adapter, bridge, composite, facade, flyweight, proxy , chain of responsabilty, command , interpreter, iterator, mediator, memento, observer, state, strategy, template method, visitor
 
-Pour vendredi, TP noté à rendre : 
+Pour vendredi, TP noté à rendre :
 Créer une (ou plusieurs) application en C# , illustrant les patterns vus en cours cette semaine. Vous pouvez travailler en groupe de 4 maximum (je conseille fortement de travailler seul, la notation sera plus sèvere pour un groupe) . J'attends au minimum une application console.
+
+3 ou 4 application de design pattern différents
 
 ## Définition ##
 
@@ -192,7 +193,7 @@ En résumé, il permet de donner à une classe existante une nouvelle interface 
 
 <img src="img/pattern_adapter.png" width="600">
 
-#### Explication du design pattern + code ####
+#### Explication du design pattern  code ####
 
 Le composant pdf est l'adapteur
 
@@ -200,3 +201,21 @@ Le composant pdf est l'adapteur
 //composition
 protected ComposantPdf outilPdf = new ComposantPdf();
 ```
+
+## Pattern Bridge ##
+
+Le pattern Bridge est utilisé pour séparer le comportement de l'implémentation de l'interface et de l'implémentation de l'objet
+On s'intéresse au demande d'immatriculation des véhicules
+Le fomulaire de demande d'immatriculation possède deux implémentation différentes
+
+--> FormulaireImmat
+
+--> FormulaireImmatHTML
+--> FormulaireImmatAPP
+
+Au départ le système a été conçu pour la France uniquement. Ensuite on a du créé une sous-classe FormulaireImmatCH, elle aussi abstraite pour avoir également deux sous classe concrète (qui sont FormulaireImmatHTML et FormulaireImmatAPP dédiées à la Suissse)
+
+
+<img src="img/design_pattern_bridge.png" width="600">
+<img src="img/design_pattern_bridge1.png" width="600">
+<img src="img/design_pattern_bridge2.png" width="600">
