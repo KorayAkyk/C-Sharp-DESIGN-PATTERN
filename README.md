@@ -26,6 +26,8 @@ Créer une (ou plusieurs) application en C# , illustrant les patterns vus en cou
 
 ## Abstract factory ##
 
+![alt text](.images/abstract_factory.png)
+
 <img src="img/abstract_factory.png" alt="Abstract factory" width="400"/>
 
 - Permet de déresponsabiliser le classe mère. Elle permet de pouvoir modifier un comportement sans modifier la classe mère.
