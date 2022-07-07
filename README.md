@@ -23,6 +23,13 @@ Créer une (ou plusieurs) application en C# , illustrant les patterns vus en cou
 - Pattern de construction
 - Pattern de structuration
 - Pattern de comportement
+  De plus, tous les patrons de conception peuvent être catégorisés selon leur intention ou leur objectif. Ce livre couvre les trois groupes principaux de patrons :
+
+Les Patrons de création fournissent des mécanismes de création d’objets, ce qui augmente la flexibilité et la réutilisation du code.
+
+Les Patrons structurels expliquent comment assembler des objets et des classes en de plus grandes structures, tout en les gardant flexibles et efficaces.
+
+Les Patrons comportementaux mettent en place une communication efficace et répartissent les responsabilités entre les objets.
 
 ## Abstract factory ##
 
