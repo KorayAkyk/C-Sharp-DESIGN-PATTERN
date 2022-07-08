@@ -1,12 +1,13 @@
-﻿using System;
-
-namespace Iterator
+﻿namespace IteratorPattern
 {
-    class Program
+    static class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
-            Console.WriteLine("Hello World!");
+            var eleve = new ListeEleve();
+            var information = new EtudiantInformation();
+            var etudiant = new Etudiant(eleve, information);
+            etudiant.AfficherEleve();
         }
     }
 }

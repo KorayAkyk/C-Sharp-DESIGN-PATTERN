@@ -1,42 +1,45 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Koko\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\koray\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Koko\\Documents\\DESIGN_PATTERN\\C# DESIGN PATTERN\\Rendu-Projet-Patterns\\Iterator\\Iterator.csproj",
+      "projectUniqueName": "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\C# DESIGN PATTERN\\Rendu-Projet-Patterns\\Iterator\\Iterator.csproj",
       "projectName": "Iterator",
-      "projectPath": "C:\\Users\\Koko\\Documents\\DESIGN_PATTERN\\C# DESIGN PATTERN\\Rendu-Projet-Patterns\\Iterator\\Iterator.csproj",
-      "packagesPath": "C:\\Users\\Koko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Koko\\Documents\\DESIGN_PATTERN\\C# DESIGN PATTERN\\Rendu-Projet-Patterns\\Iterator\\obj\\",
+      "projectPath": "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\C# DESIGN PATTERN\\Rendu-Projet-Patterns\\Iterator\\Iterator.csproj",
+      "packagesPath": "C:\\Users\\koray\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\C# DESIGN PATTERN\\Rendu-Projet-Patterns\\Iterator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Koko\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\koray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -47,8 +50,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -64,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
