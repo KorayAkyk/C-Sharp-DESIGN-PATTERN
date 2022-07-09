@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace Singleton;
 
-//Design pattern: Adapter
-//Le design pattern Adapter est un design pattern qui permet de transformer un objet en un autre objet.
+//Design pattern: Singleton
+//Le design pattern Singleton est un design pattern qui permet de créer une classe qui ne peut être instanciée qu'une seule fois.
 public class Program
 {
     public static void Main(string[] args)
