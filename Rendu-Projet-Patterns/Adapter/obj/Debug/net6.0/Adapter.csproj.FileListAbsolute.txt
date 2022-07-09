@@ -1,0 +1,15 @@
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Adapter\obj\Debug\net6.0\ref\Adapter.dll

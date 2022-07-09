@@ -28,7 +28,6 @@ public class Article : Articles
     }
     public override void Affichage()
     {
-        // L'adaptateur utilise le constructeur de la classe InformationArticles
         info = new InformationArticles();
         articleProteines = info.RecupProtPoids(article, "PR");
         articlePoids = info.RecupProtPoids(article, "POIDS");
@@ -44,7 +43,6 @@ public class Article : Articles
 
     }
 }
-//Class adapter qui permet de récupérer les données d'un article
 public class InformationArticles
 {
     public float RecupProtPoids(string compound, string point)
