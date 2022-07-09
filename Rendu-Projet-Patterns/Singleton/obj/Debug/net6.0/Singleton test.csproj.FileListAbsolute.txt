@@ -1,0 +1,45 @@
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\bin\Debug\net6.0\Singleton test.exe
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\bin\Debug\net6.0\Singleton test.deps.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\bin\Debug\net6.0\Singleton test.runtimeconfig.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\bin\Debug\net6.0\Singleton test.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\bin\Debug\net6.0\Singleton test.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\obj\Debug\net6.0\Singleton test.csproj.AssemblyReference.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\obj\Debug\net6.0\Singleton test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\obj\Debug\net6.0\Singleton test.AssemblyInfoInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\obj\Debug\net6.0\Singleton test.AssemblyInfo.cs
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\obj\Debug\net6.0\Singleton test.csproj.CoreCompileInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\obj\Debug\net6.0\Singleton test.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\obj\Debug\net6.0\refint\Singleton test.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\obj\Debug\net6.0\Singleton test.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\obj\Debug\net6.0\Singleton test.genruntimeconfig.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Singleton test\obj\Debug\net6.0\ref\Singleton test.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\bin\Debug\net6.0\Singleton test.exe
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\bin\Debug\net6.0\Singleton test.deps.json
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\bin\Debug\net6.0\Singleton test.runtimeconfig.json
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\bin\Debug\net6.0\Singleton test.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\bin\Debug\net6.0\Singleton test.pdb
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\obj\Debug\net6.0\Singleton test.csproj.AssemblyReference.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\obj\Debug\net6.0\Singleton test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\obj\Debug\net6.0\Singleton test.AssemblyInfoInputs.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\obj\Debug\net6.0\Singleton test.AssemblyInfo.cs
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\obj\Debug\net6.0\Singleton test.csproj.CoreCompileInputs.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\obj\Debug\net6.0\Singleton test.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\obj\Debug\net6.0\refint\Singleton test.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\obj\Debug\net6.0\Singleton test.pdb
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\obj\Debug\net6.0\Singleton test.genruntimeconfig.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton test\obj\Debug\net6.0\ref\Singleton test.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\bin\Debug\net6.0\Singleton test.exe
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\bin\Debug\net6.0\Singleton test.deps.json
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\bin\Debug\net6.0\Singleton test.runtimeconfig.json
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\bin\Debug\net6.0\Singleton test.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\bin\Debug\net6.0\Singleton test.pdb
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\obj\Debug\net6.0\Singleton test.csproj.AssemblyReference.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\obj\Debug\net6.0\Singleton test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\obj\Debug\net6.0\Singleton test.AssemblyInfoInputs.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\obj\Debug\net6.0\Singleton test.AssemblyInfo.cs
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\obj\Debug\net6.0\Singleton test.csproj.CoreCompileInputs.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\obj\Debug\net6.0\Singleton test.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\obj\Debug\net6.0\refint\Singleton test.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\obj\Debug\net6.0\Singleton test.pdb
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\obj\Debug\net6.0\Singleton test.genruntimeconfig.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\00_PROJET_RENDU_DESIGN_PATTERN\Singleton\obj\Debug\net6.0\ref\Singleton test.dll
