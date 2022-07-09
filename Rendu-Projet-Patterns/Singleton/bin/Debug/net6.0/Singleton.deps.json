@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Singleton test/1.0.0": {
+      "Singleton/1.0.0": {
         "runtime": {
-          "Singleton test.dll": {}
+          "Singleton.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Singleton test/1.0.0": {
+    "Singleton/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

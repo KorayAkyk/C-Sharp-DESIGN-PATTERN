@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4RG7AekaWNfTw2TJuknTGJeHvEur1f+19W691Pw43WABhfr6BgMpp6prYF/hqDRhv1E5dr5e+HRBhA1N4u0jzw==",
+  "dgSpecHash": "/gxsK3RRpYjNoQvSJWU5BGbG5S9RcSkkN36ZzCZ5rSpOehUsqa08trE3fKSJR2ofBvKbQHTz2qLHU4z9684bXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\00_PROJET_RENDU_DESIGN_PATTERN\\Singleton\\Singleton test.csproj",
+  "projectFilePath": "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\C# DESIGN PATTERN\\Rendu-Projet-Patterns\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
