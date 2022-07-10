@@ -1,0 +1,14 @@
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.csproj.AssemblyReference.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.AssemblyInfoInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.AssemblyInfo.cs
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.exe
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.deps.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.runtimeconfig.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.runtimeconfig.dev.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Mediator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Mediator.genruntimeconfig.cache
