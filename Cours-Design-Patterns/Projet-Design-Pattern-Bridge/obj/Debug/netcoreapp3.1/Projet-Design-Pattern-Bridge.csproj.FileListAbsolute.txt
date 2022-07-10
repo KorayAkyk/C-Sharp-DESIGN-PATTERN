@@ -1,0 +1,14 @@
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.exe
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.deps.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.runtimeconfig.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.runtimeconfig.dev.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.csproj.AssemblyReference.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.AssemblyInfoInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.AssemblyInfo.cs
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-Bridge\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-Bridge.genruntimeconfig.cache
