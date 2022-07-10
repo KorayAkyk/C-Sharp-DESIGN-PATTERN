@@ -28,3 +28,18 @@ C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\
 C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\Iterator.pdb
 C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\Iterator.genruntimeconfig.cache
 C:\Users\koray\Documents\DESIGN_PATTERN\C# DESIGN PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\ref\Iterator.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\bin\Debug\net6.0\Iterator.exe
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\bin\Debug\net6.0\Iterator.deps.json
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\bin\Debug\net6.0\Iterator.runtimeconfig.json
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\bin\Debug\net6.0\Iterator.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\bin\Debug\net6.0\Iterator.pdb
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\Iterator.csproj.AssemblyReference.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\Iterator.AssemblyInfoInputs.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\Iterator.AssemblyInfo.cs
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\Iterator.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\refint\Iterator.dll
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\Iterator.pdb
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\Iterator.genruntimeconfig.cache
+C:\Users\koray\Documents\DESIGN_PATTERN\Github-Design-Patterns-Koray\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\Iterator\obj\Debug\net6.0\ref\Iterator.dll
