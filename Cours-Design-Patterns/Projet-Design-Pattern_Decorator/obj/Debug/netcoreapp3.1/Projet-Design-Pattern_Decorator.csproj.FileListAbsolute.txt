@@ -1,0 +1,14 @@
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.exe
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.deps.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.runtimeconfig.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.runtimeconfig.dev.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.csproj.AssemblyReference.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.AssemblyInfoInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.AssemblyInfo.cs
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern_Decorator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern_Decorator.genruntimeconfig.cache
