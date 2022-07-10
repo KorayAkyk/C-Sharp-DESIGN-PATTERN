@@ -1,0 +1,14 @@
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.csproj.AssemblyReference.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.AssemblyInfoInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.AssemblyInfo.cs
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.csproj.CoreCompileInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.exe
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.deps.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.runtimeconfig.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.runtimeconfig.dev.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\bin\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Pattern-iterator\obj\Debug\netcoreapp3.1\Projet-Design-Pattern-iterator.genruntimeconfig.cache
