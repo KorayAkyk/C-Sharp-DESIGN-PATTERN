@@ -1,0 +1,14 @@
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\bin\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.exe
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\bin\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.deps.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\bin\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.runtimeconfig.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\bin\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.runtimeconfig.dev.json
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\bin\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\bin\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\obj\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.csproj.AssemblyReference.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\obj\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\obj\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.AssemblyInfoInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\obj\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.AssemblyInfo.cs
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\obj\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.csproj.CoreCompileInputs.cache
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\obj\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.dll
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\obj\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.pdb
+C:\Users\Koko\Documents\DESIGN_PATTERN\Projet-Design-Patter-Abstraite\obj\Debug\netcoreapp3.1\Projet-Design-Patter-Abstraite.genruntimeconfig.cache
