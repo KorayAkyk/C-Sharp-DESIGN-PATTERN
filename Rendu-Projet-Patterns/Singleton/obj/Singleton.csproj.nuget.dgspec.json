@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\Github-Design-Patterns-Koray\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Singleton\\Singleton.csproj": {}
+    "C:\\Users\\koray\\Documents\\00-GithubKoko\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\Github-Design-Patterns-Koray\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Singleton\\Singleton.csproj": {
+    "C:\\Users\\koray\\Documents\\00-GithubKoko\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\Github-Design-Patterns-Koray\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "C:\\Users\\koray\\Documents\\00-GithubKoko\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\Github-Design-Patterns-Koray\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Singleton\\Singleton.csproj",
+        "projectPath": "C:\\Users\\koray\\Documents\\00-GithubKoko\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\koray\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\Github-Design-Patterns-Koray\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Singleton\\obj\\",
+        "outputPath": "C:\\Users\\koray\\Documents\\00-GithubKoko\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

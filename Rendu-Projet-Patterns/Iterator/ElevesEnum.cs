@@ -13,7 +13,6 @@ namespace IteratorPattern
             _eleves = eleves;
         }
 
-
         public bool MoveNext()
         {
             _position++;
@@ -31,15 +30,21 @@ namespace IteratorPattern
         }
 
 
-        object IEnumerator.Current => Current;
+        object IEnumerator.Current
+        {
+            get
+            {
+                return Current;
+            }
+        }
 
-        public Information Current
+        public Information? Current
         {
             get
             {
                 try
                 {
-                    return (Information)_eleves[_position];
+                    return _eleves[_position] as Information;
                 }
                 catch (IndexOutOfRangeException)
                 {
