@@ -9,7 +9,7 @@ internal class Program
         Console.ResetColor();
         Console.ForegroundColor = ConsoleColor.Blue;
         Console.WriteLine("Design Pattern : Abstract Factory");
-        Console.WriteLine("Ce programme resproduit un exemple d'utilisation de la pattern Abstract Factory avec des instruments de cordes et des instruments de vent.");
+        Console.WriteLine("Ce programme resproduit un exemple d'utilisation du pattern Abstract Factory avec des instruments de cordes et des instruments de vent.");
         Console.ResetColor();
 
         Console.WriteLine("");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\Github-Design-Patterns-Koray\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Adapter\\Adapter.csproj": {}
+    "C:\\Users\\koray\\Documents\\00-GithubKoko\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\Github-Design-Patterns-Koray\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Adapter\\Adapter.csproj": {
+    "C:\\Users\\koray\\Documents\\00-GithubKoko\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\Github-Design-Patterns-Koray\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "C:\\Users\\koray\\Documents\\00-GithubKoko\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\Github-Design-Patterns-Koray\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Adapter\\Adapter.csproj",
+        "projectPath": "C:\\Users\\koray\\Documents\\00-GithubKoko\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Adapter\\Adapter.csproj",
         "packagesPath": "C:\\Users\\koray\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\koray\\Documents\\DESIGN_PATTERN\\Github-Design-Patterns-Koray\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Adapter\\obj\\",
+        "outputPath": "C:\\Users\\koray\\Documents\\00-GithubKoko\\C-Sharp-DESIGN-PATTERN\\Rendu-Projet-Patterns\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

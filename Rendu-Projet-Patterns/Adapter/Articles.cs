@@ -13,19 +13,27 @@ public class Articles
     protected string? articlePrix;
     public virtual void Affichage()
     {
+        Console.ResetColor();
+        Console.ForegroundColor = ConsoleColor.Yellow;
+        Console.WriteLine("Design Pattern : Adapter");
+        Console.WriteLine("Ce programme resproduit un exemple d'utilisation du pattern Adapter avec une liste d'aticle de nourriture vous précisant le prix, les calories le poids et les protéines de chaque article .");      
+        Console.WriteLine("Appuyez sur une touche pour la visualiser.");
+        Console.ResetColor();
+        Console.ReadKey();
+
+        Console.ForegroundColor = ConsoleColor.Blue;
         Console.WriteLine("\n ---------------- Article: Inconnu ---------------- ");
         Console.WriteLine("\n -------------------------------------------------- ");
+        Console.ResetColor();
+        Console.ReadKey();
     }
 }
 
 public class Article : Articles
 {
     private string article;
-    private InformationArticles info;
-    public Article(string article)
-    {
-        this.article = article;
-    }
+    private InformationArticles ?info;
+    public Article(string article) => this.article = article;
     public override void Affichage()
     {
         info = new InformationArticles();
@@ -33,14 +41,19 @@ public class Article : Articles
         articlePoids = info.RecupProtPoids(article, "POIDS");
         articleCalories = info.RecupCalories(article);
         articlePrix = info.RecupPrix(article);
+        
+        Console.ResetColor();
+        Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("\n ---------------- Article: {0} ---------------- ", article);
+
         Console.WriteLine("");
         Console.WriteLine("             Prix        : {0}   ", articlePrix);
         Console.WriteLine("             Calories    : {0}   ", articleCalories);
         Console.WriteLine("             Poids Pt    : {0}   ", articlePoids);
         Console.WriteLine("             Protéines   : {0}   ", articleProteines);
         Console.WriteLine("\n -------------------------------------------------- ", article);
-
+        Console.ResetColor();
+        Console.ReadKey();
     }
 }
 public class InformationArticles
