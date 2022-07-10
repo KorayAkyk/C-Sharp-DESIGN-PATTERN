@@ -63,7 +63,7 @@ namespace RefactoringGuru.DesignPatterns.Prototype.Conceptual
             p1.BirthDate = Convert.ToDateTime("1900-01-01");
             p1.Name = "Frank";
             p1.IdInfo.IdNumber = 7878;
-            Console.WriteLine("\Valeur de p1, p2 and p3 après changement sur p1:");
+            Console.WriteLine("Valeur de p1, p2 and p3 après changement sur p1:");
             Console.WriteLine("   p1 valeur d'instance: ");
             DisplayValues(p1);
             Console.WriteLine("   p2 valeur d'instance (la valeur de référence a été modifié):");

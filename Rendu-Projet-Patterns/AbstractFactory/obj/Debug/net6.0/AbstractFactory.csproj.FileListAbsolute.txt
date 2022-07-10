@@ -1,0 +1,15 @@
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\obj\Debug\net6.0\refint\AbstractFactory.dll
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\koray\Documents\00-GithubKoko\C-Sharp-DESIGN-PATTERN\Rendu-Projet-Patterns\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
